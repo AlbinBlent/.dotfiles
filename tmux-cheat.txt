@@ -1,0 +1,12 @@
+leader: C-a
+
+create panes: <leader> - eller |
+navigate panes: Ctrl-hjkl
+increase pane size: <leader> hjkl
+toggle maximize window: <leader> m
+close window: exit
+
+new window: <leader> c
+rename window: <leader> ,
+next window: <leader> n
+prew window: <leader> p

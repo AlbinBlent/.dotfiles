@@ -1,0 +1,43 @@
+leader: space
+
+exit edit insert mode: jk or 
+
+LSP hover document: Shift + k
+
+trigger autocomplete in insert mode: Ctrl + space
+
+
+VIM stuff
+
+delete entire row: Shift + s
+
+
+- - - - old nvim stuff, maybe get some inspo from this? - - - -
+clear search hightlights: <leader>nh
+
+split window: <leader> sv,sh
+make windows equal size: <leader> se
+close window: <leader> sx
+toggle split window maximization: <leader> sm
+
+open new tab: <leader> to
+close tab: <leader> tx
+go to next tab: <leader> tn
+go to previus tab: <leader> tp
+
+toggle file explorer: <leader> e
+while in the file explorer, create file: a
+
+find files: <leader> ff
+find string in current working directory: <leader> fs
+find string under cursor in current working dir: <leader> fc
+list open buffers in current neowim instance: <leader> fb
+list available help tags: <leader> fh
+
+list all git commits (use <cr> to checkout): <leader> gc 
+list all git commits for current file/buffer (use <cr> to checkout): <leader> gfc
+list git branches (use <cr> to checkout): <leader> gb
+list current changes per file with diff preview: <leader> gs
+
+restart lsp server: <leader> rs
+
